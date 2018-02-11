@@ -1,17 +1,19 @@
 # Tutorials and Resources
 Here are a list of tutorials and resources for RimWorld Modding. If you want to add anything here, just message @spdskatr #RWBestGameRuns-1Thread
+
 ## General
 - [Mod Help section on the ludeon forums](https://ludeon.com/forums/index.php?board=14.0)
 - [Roxxploxx's modding guide](https://github.com/roxxploxx/RimWorldModGuide/wiki)
 - [Jecrell's step-by-step modding guide](https://ludeon.com/forums/index.php?topic=33219.msg338626#msg338626)
 - [ZorbaTHut's intro to modding features](https://ludeon.com/forums/index.php?topic=32735.0)
 - [KeenKrozzy's Guide to using custom textures](https://www.youtube.com/watch?v=zqXbHso6TfU)
+
 ## XML
 - [Zhentar's Introduction to PatchOperation](https://gist.github.com/Zhentar/4a1b71cea45b9337f70b30a21d868782): using xpath to target parts of Defs.
-
 - [CannibalRechter's CompFX for animated textures](https://ludeon.com/forums/index.php?topic=35895.0)
 - [RimWorld XML Auto-Documentation](https://ludeon.com/forums/index.php?topic=21440.0) - an HTML help file for modders. It contains a listing of all Core (ie. vanilla) uses of RimWorld's XML code.  It's great for learning what tags are parents or children of what.
-## C#
+
+## C&#35;
 - [Learn C#](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 - [The Harmony Wiki](https://github.com/pardeike/Harmony/wiki/)
 - [Brrainz's introduction to transpiling with Harmony](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
@@ -20,6 +22,7 @@ Here are a list of tutorials and resources for RimWorld Modding. If you want to 
     - https://github.com/0xd4d/dnSpy/releases - feature-rich and often updated.
     - https://github.com/Zhentar/ILSpy/releases - fast and simple.
 - dnSpy can be used to debug Unity games that you can't usually debug. Read [here](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games), remember to download the Unity-debugging-win32.zip from releases
+
 ## Other
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
 - [Seraphile's guide to colouring images and masks](https://github.com/seraphile/rimshare/wiki/Colouring-in-Images)
