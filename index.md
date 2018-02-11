@@ -17,8 +17,8 @@ Here are a list of tutorials and resources for RimWorld Modding. If you want to 
 - [Brrainz's introduction to transpiling with Harmony](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
 - [Why_is_that's guide to Mod Settings](https://github.com/AaronCRobinson/SettingsHelper/wiki)
 - **Recommended decompilers:**
-..- https://github.com/0xd4d/dnSpy/releases - feature-rich and often updated.
-..- https://github.com/Zhentar/ILSpy/releases - fast and simple.
+    - https://github.com/0xd4d/dnSpy/releases - feature-rich and often updated.
+    - https://github.com/Zhentar/ILSpy/releases - fast and simple.
 - dnSpy can be used to debug Unity games that you can't usually debug. Read [here](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games), remember to download the Unity-debugging-win32.zip from releases
 ## Other
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
