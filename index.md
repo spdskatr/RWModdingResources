@@ -24,9 +24,14 @@ Here are a list of tutorials and resources for RimWorld Modding.
 
 ## XML
 
-- [W3schools introduction to basic XML](https://www.w3schools.com/xml/) - Read up to and including the "Attributes" article.
+- [Abstracts and inheritance](abstracts) - AKA "what the hell am I copy-pasting over anyway?"
 - [Zhentar's Introduction to PatchOperation](https://gist.github.com/Zhentar/4a1b71cea45b9337f70b30a21d868782): using xpath to target parts of Defs.
 - [RimWorld XML Auto-Documentation](https://ludeon.com/forums/index.php?topic=21440.0) - an HTML help file for modders. It contains a listing of all Core (ie. vanilla) uses of RimWorld's XML code.  It's great for learning what tags are parents or children of what.
+
+### Background information
+
+- [W3Schools introduction to xpath](https://www.w3schools.com/xml/xpath_intro.asp) - RW does not support all features, but this teaches you a lot.
+- [W3Schools introduction to basic XML](https://www.w3schools.com/xml/) - Read up to and including the "Attributes" article.
 
 ## C&#35;
 
