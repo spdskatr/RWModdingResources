@@ -9,26 +9,27 @@ The design philosophy behind RimWorld is to do that which brings the most benefi
 
 "RimWorld has graphics like a novel has a typeface."
 
-The following style criteria are for RimWorld. They might not 100% apply to your mod, but they are important to keep in mind. Following them will tremendously help blend in your art with that of RimWOrld. The criteria for graphics in RimWorld are as follows:
+The following style criteria are for RimWorld. They might not 100% apply to your mod, but they are important to keep in mind. Following them will tremendously help blend in your art with that of RimWorld. The criteria for graphics in RimWorld are as follows:
 
-- Not ugly
+- Not ugly  
 If it's painful to look at, or looks awful, you're not going to sell many games. Reach a threshold of beauty that you can look at without psychic suffering.
 
-- Easily identifiable
+- Easily identifiable  
 Visual characteristics have to easily identify what they represent. You need to recognise what's happening.
 
-- Minimal noise
+- Minimal noise  
 Making the graphics really simple reduces the noise in the image. That reduces the cognitive load to read the image. An image with a lot of detail everywhere might be beautiful but a game like RimWorld can have hundreds of objects on the screen. Scanning what matters becomes harder and harder.
 
-- Intensity hierarchy
+- Intensity hierarchy  
 This helps people determine visually what is important and what is not. It's a hierarchy of visual intensity. Story-relevant things need to be eye catching, and the eye needs to slide over things that matter less.
 
 The hierarchy is often established by the outline. As a simple example, Pawns have a thicker outline than items. Buildings and items in the game have a solid black outline, but plants have a dark green outline or no outline at all. This means that plants tend to blend into the background slightly. In a big field of trees the character really pop out while the plants sort of smear together.
 
-- Fast implementation
+- Fast implementation  
 Skip details in favour of more content. Add as many details as you need to enrich the story and cut the rest.
 
-- Leave room for interpretation
+- Leave room for interpretation  
+There's still debate over which side of the storage shelf is up, and the open interpretation of the Scyther has led to some great fanart.
 
 
 
