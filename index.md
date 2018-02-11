@@ -1,5 +1,5 @@
 # Tutorials and Resources
-Here are a list of tutorials and resources for RimWorld Modding. If you want to add anything here, just message @spdskatr #RWBestGameRuns-1Thread
+Here are a list of tutorials and resources for RimWorld Modding.
 
 ## General
 - [Mod Help section on the ludeon forums](https://ludeon.com/forums/index.php?board=14.0)
@@ -14,14 +14,15 @@ Here are a list of tutorials and resources for RimWorld Modding. If you want to 
 - [RimWorld XML Auto-Documentation](https://ludeon.com/forums/index.php?topic=21440.0) - an HTML help file for modders. It contains a listing of all Core (ie. vanilla) uses of RimWorld's XML code.  It's great for learning what tags are parents or children of what.
 
 ## C&#35;
-- [Learn C#](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+- [Learn C# from Microsoft Virtual Academy](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 - [The Harmony Wiki](https://github.com/pardeike/Harmony/wiki/)
 - [Brrainz's introduction to transpiling with Harmony](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
 - [Why_is_that's guide to Mod Settings](https://github.com/AaronCRobinson/SettingsHelper/wiki)
 - **Recommended decompilers:**
-    - https://github.com/0xd4d/dnSpy/releases - feature-rich and often updated.
-    - https://github.com/Zhentar/ILSpy/releases - fast and simple.
-- dnSpy can be used to debug Unity games that you can't usually debug. Read [here](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games), remember to download the Unity-debugging-win32.zip from releases
+    - [dnSpy](https://github.com/0xd4d/dnSpy/releases) - feature-rich and often updated.
+        - dnSpy can be used to debug Unity games that you can't usually debug. Read [here](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games), remember to download the Unity-debugging-win32.zip from releases
+    - [ILSpy](https://github.com/Zhentar/ILSpy/releases) - fast and simple.
+- [fyarn's Rimworld Mod Development Cookiecutter](https://ludeon.com/forums/index.php?topic=39038): Set up a fully functional mod development environment in 30 seconds or less with a Visual Studio integration
 
 ## Other
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
