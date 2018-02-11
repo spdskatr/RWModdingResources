@@ -16,13 +16,13 @@ All of them have one critical feature which you will use a lot: `Folders as work
 ## Screenshots
 
 Notepad++
-![Notepad++](/texteditor_screenshots/notepadplusplus.png?raw=true "Notepad++")
+![Notepad++](https://github.com/spdskatr/RWModdingResources/blob/master/texteditor_screenshots/notepadplusplus.png?raw=true "Notepad++")
 
 Sublime
-![Sublime](/texteditor_screenshots/sublime.png?raw=true "Sublime")
+![Sublime](https://github.com/spdskatr/RWModdingResources/blob/master/texteditor_screenshots/sublime.png?raw=true "Sublime")
 
 Atom
-![Atom](/texteditor_screenshots/atom.png?raw=true "Atom")
+![Atom](https://github.com/spdskatr/RWModdingResources/blob/master/texteditor_screenshots/atom.png?raw=true "Atom")
 
 VS Code
-![VS Code](/texteditor_screenshots/vs_code.png?raw=true "VS Code")
+![VS Code](https://github.com/spdskatr/RWModdingResources/blob/master/texteditor_screenshots/vs_code.png?raw=true "VS Code")
