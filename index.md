@@ -2,6 +2,7 @@
 Here are a list of tutorials and resources for RimWorld Modding.
 
 ## General
+- [Modding tutorials page on the RimWorld wiki](http://rimworldwiki.com/wiki/Modding_Tutorials)
 - [Mod Help section on the ludeon forums](https://ludeon.com/forums/index.php?board=14.0)
 - [Roxxploxx's modding guide](https://github.com/roxxploxx/RimWorldModGuide/wiki)
 - [Jecrell's step-by-step modding guide](https://ludeon.com/forums/index.php?topic=33219.msg338626#msg338626)
@@ -10,7 +11,6 @@ Here are a list of tutorials and resources for RimWorld Modding.
 
 ## XML
 - [Zhentar's Introduction to PatchOperation](https://gist.github.com/Zhentar/4a1b71cea45b9337f70b30a21d868782): using xpath to target parts of Defs.
-- [CannibalRechter's CompFX for animated textures](https://ludeon.com/forums/index.php?topic=35895.0)
 - [RimWorld XML Auto-Documentation](https://ludeon.com/forums/index.php?topic=21440.0) - an HTML help file for modders. It contains a listing of all Core (ie. vanilla) uses of RimWorld's XML code.  It's great for learning what tags are parents or children of what.
 
 ## C&#35;
@@ -24,6 +24,7 @@ Here are a list of tutorials and resources for RimWorld Modding.
     - [ILSpy](https://github.com/Zhentar/ILSpy/releases) - fast and simple.
 - [fyarn's Rimworld Mod Development Cookiecutter](https://ludeon.com/forums/index.php?topic=39038): Set up a fully functional mod development environment in 30 seconds or less with a Visual Studio integration
 
-## Other
+## Graphics
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
 - [Seraphile's guide to colouring images and masks](https://github.com/seraphile/rimshare/wiki/Colouring-in-Images)
+- [CannibalRechter's CompFX for animated textures](https://ludeon.com/forums/index.php?topic=35895.0)
