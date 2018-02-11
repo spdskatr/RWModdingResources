@@ -28,3 +28,4 @@ Here are a list of tutorials and resources for RimWorld Modding.
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
 - [Seraphile's guide to colouring images and masks](https://github.com/seraphile/rimshare/wiki/Colouring-in-Images)
 - [CannibalRechter's CompFX for animated textures](https://ludeon.com/forums/index.php?topic=35895.0)
+- [Officially unofficial artstyle guide](artstyle)
