@@ -46,4 +46,8 @@ There's still debate over which side of the storage shelf is up, and the open in
 - It's advised to work on a square canvas. The game resizes item textures to 64x64, but you can comfortably work on 128x128. Increasing canvas size or shrinking the pixel size of the art makes for smaller items. If you want an off-set piece of art, add padding to your canvas.
 - Vanilla art has a 2-3 pixel black border for "story relevant" things, like items/walls/pawns. Plants have a green border.
 
+## Animal art tutorial
+
+- Ekksu has a great tutorial over on [reddit](https://www.reddit.com/r/RimWorld/comments/5tn1pi/rimworldstyle_sprite_tutorials/). They detail their workflow in a nice imgur album.
+
 Ask in the Discord about the A18 art assets.

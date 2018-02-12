@@ -32,4 +32,4 @@ Be sure the game is running with permission to modify the folder. It may not wor
 
 ## EULA
 
-There's a EULA.txt supplied with the game. Read it. It's understandable and contains good information. Know your rights and limits. Local lows may differ. We are not lawyers.
+There's a EULA.txt supplied with the game. Read it. It's understandable and contains good information. Know your rights and limits. Local laws may differ. We are not lawyers.
