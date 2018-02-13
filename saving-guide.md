@@ -6,7 +6,8 @@ Saving is mainly done through overriding a virtual `ExposeData` method. In vario
 ```cs
 public override void ExposeData()
 {
-}```
+}
+```
 
 In this method, we use various `Scribe` methods to save individual values.
 
@@ -32,13 +33,15 @@ string bar;
 PublishedFileId_t baz;
 Scribe_Values.Look(ref foo, "foo", 10); // When loading, if there is no entry of the value of foo, set it to 10
 Scribe_Values.Look(ref bar, "bar"); // Simple example
-Scribe_Values.Look(ref baz, "baz", new PublishedFileId_t(987654321)， true); // When loading, if there is no entry of the value of foo, set it to new PublishedFileId_t(987654321). Also force save the value```
+Scribe_Values.Look(ref baz, "baz", new PublishedFileId_t(987654321)， true); // When loading, if there is no entry of the value of foo, set it to new PublishedFileId_t(987654321). Also force save the value
+```
 
 ## Saving References to Defs
 You can save references to Defs! Simply specify the field your def is in, and the save label.
 
 ```cs
-Scribe_Defs.Look(ref myDef, "myDef");```
+Scribe_Defs.Look(ref myDef, "myDef");
+```
 
 ## Saving Things
 `Thing` is the base class of many important types, such as `Pawn`, `Building`, `Mote` and `Plant`. Things can be saved in two ways:
@@ -51,20 +54,23 @@ Classes that implement `IExposable` have multiple saveable parts that all need s
 When IExposable items are instantiated, some need parameters in their constructor. You can specify the constructor arguments in the `ctorArgs` argument.
 ```cs
 Scribe_Deep.Look(ref myExposable, "myExposable");
-Scribe_Deep.Look(ref myOtherExposable, true, "myOtherExposable", this); // Saves myOtherExposable even if destroyed, and passes `this` to the constructor.```
+Scribe_Deep.Look(ref myOtherExposable, true, "myOtherExposable", this); // Saves myOtherExposable even if destroyed, and passes `this` to the constructor.
+```
 
 ## Saving ILoadReferenceables
 You can save references to classes that implement `ILoadReferenceable`. However, the object has to be saved somewhere else as well for this to work. This is useful for preserving references to items, pawns and buildings that are already spawned.
 
 ```cs
 Scribe_References.Look(ref myReference, "myReference"); // Save the reference, unless destroyed.
-Scribe_References.Look(ref myReference, "myReference", true); // Save the reference, even if destroyed.```
+Scribe_References.Look(ref myReference, "myReference", true); // Save the reference, even if destroyed.
+```
 
 ## Saving TargetInfo
 TargetInfo, LocalTargetInfo and GlobalTargetInfo are special types that point to a thing, location or world object. They can be saved with `Scribe_TargetInfo`. There are two optional parameters you can pass that allow you to specify whether you want to save destroyed things or have a default value.
 
 ```cs
-Scribe_TargetInfo.Look(ref myLocation, "target");```
+Scribe_TargetInfo.Look(ref myLocation, "target");
+```
 
 ## Saving Collections
 Some collections, like List, Dictionary and HashSet can be saved as well. Their basic signature is similar, but you have to make sure the individual elements of the collection are also saveable, and specify which mode they can be saved in.
@@ -82,4 +88,5 @@ Stack<Thing> stack1;
 Scribe_Collections.Look(ref list1, "list1", LookMode.Value);
 Scribe_Collections.Look(ref dict1, "dict1", LookMode.Value, LookMode.TargetInfo);
 Scribe_Collections.Look(ref dict2, "dict2", LookMode.Reference, LookMode.Value, ref list2, ref list3);
-Scribe_Collections.Look(ref stack1, "stack1", LookMode.Reference);```
+Scribe_Collections.Look(ref stack1, "stack1", LookMode.Reference);
+```
