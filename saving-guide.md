@@ -31,9 +31,10 @@ Use of this method:
 int foo;
 string bar;
 PublishedFileId_t baz;
+
 Scribe_Values.Look(ref foo, "foo", 10); // When loading, if there is no entry of the value of foo, set it to 10
 Scribe_Values.Look(ref bar, "bar"); // Simple example
-Scribe_Values.Look(ref baz, "baz", new PublishedFileId_t(987654321)， true); // When loading, if there is no entry of the value of foo, set it to new PublishedFileId_t(987654321). Also force save the value
+Scribe_Values.Look(ref baz, "baz", new PublishedFileId_t(987654321), true); // When loading, if there is no entry of the value of foo, set it to new PublishedFileId_t(987654321). Also force save the value
 ```
 
 ## Saving References to Defs
