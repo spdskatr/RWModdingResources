@@ -38,7 +38,8 @@ Here are a list of tutorials and resources for RimWorld Modding.
 - [The Harmony Wiki](https://github.com/pardeike/Harmony/wiki/)
 - [Brrainz's introduction to transpiling with Harmony](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
 - [Why_is_that's guide to Mod Settings](https://github.com/AaronCRobinson/SettingsHelper/wiki)
-- [Mehni's top to bottom breakdown of the Job system](https://github.com/Mehni/ExampleJob/wiki)
+- [Mehni's top to bottom breakdown of the Job system](https://github.com/Mehni/ExampleJob/wiki
+- [Guide to saving stuff using ExposeData](saving-guide)
 
 ## Graphics
 
