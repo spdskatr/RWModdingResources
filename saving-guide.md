@@ -16,7 +16,7 @@ The first parameter to most `Scribe` methods is a reference to the item you want
 The second parameter to most `Scribe` methods, often called `label`, is the save key that you want to use to save the item. It must be unique and will appear in the save file.
 
 ## Saving Simple Values
-Most simple values are saved using Scribe_Values. This class allows you to save a variety of primitives including:
+Most simple values are saved using Scribe_Values. This class allows you to save a variety of types including:
 - .NET Primitive Types (int, float, ushort, double, bool, char)
 - Enum Types (AltitudeLayer, BindingFlags, PawnHealthState)
 - Strings
