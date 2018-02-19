@@ -22,6 +22,7 @@ Here are a list of tutorials and resources for RimWorld Modding.
 - [Jecrell's step-by-step modding guide](https://ludeon.com/forums/index.php?topic=33219.msg338626#msg338626)
 - [ZorbaTHut's intro to modding features](https://ludeon.com/forums/index.php?topic=32735.0)
 - [KeenKrozzy's Guide to using custom textures](https://www.youtube.com/watch?v=zqXbHso6TfU)
+- [GitHub repositories of modders](telephonebook)
 
 ## XML
 
