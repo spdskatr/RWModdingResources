@@ -41,6 +41,7 @@ Here are a list of tutorials and resources for RimWorld Modding.
 - [Why_is_that's guide to Mod Settings](https://github.com/AaronCRobinson/SettingsHelper/wiki)
 - [Mehni's top to bottom breakdown of the Job system](https://github.com/Mehni/ExampleJob/wiki)
 - [Guide to saving stuff using ExposeData](saving-guide)
+- [Ideas for a first project](starterprojects)
 
 ## Graphics
 
