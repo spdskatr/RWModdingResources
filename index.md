@@ -10,7 +10,7 @@ Here are a list of tutorials and resources for RimWorld Modding.
     - dnSpy can be used to debug Unity games that you can't usually debug. Read [here](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games), remember to download the Unity-debugging-win32.zip from releases
   - [ILSpy](https://github.com/Zhentar/ILSpy/releases) - fast and simple.
   - [dotPeek](https://www.jetbrains.com/decompiler/download/) - primarily useful when transpiling because of its synchronised IL and C# view.
-- [Setting up a solution](http://rimworldwiki.com/wiki/Modding_Tutorials/Setting_up_a_solution)
+- [Setting up a solution for RimWorld](http://rimworldwiki.com/wiki/Modding_Tutorials/Setting_up_a_solution) or [setting up Visual Studio](http://www.thewindowsclub.com/how-to-get-started-with-visual-studio). You'll need to be able to target the .NET 3.5 framework to mod RimWorld.
 - [fyarn's Rimworld Mod Development Cookiecutter](https://ludeon.com/forums/index.php?topic=39038): Set up a fully functional mod development environment in 30 seconds or less with a Visual Studio integration
 - [Things you might not know](nobodyreadsthereadme)
 

@@ -36,3 +36,5 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/Rikiki123456789](https://github.com/Rikiki123456789) - Rikiki
 - [https://github.com/KiameV](https://github.com/KiameV) - Kiame Vivacity
 - [https://github.com/Fuglypump](https://github.com/Fuglypump) - Fuglypump
+- [https://github.com/quicksilverfox](https://github.com/quicksilverfox/) - quicksilverfox
+- [https://github.com/sulusdacor](https://github.com/sulusdacor) - [sd] sulusdacor
