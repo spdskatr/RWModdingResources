@@ -33,6 +33,14 @@ If you make a mod, inherit from as far down the inheritence chain as possible. I
 
 If you make a weapon or whatever that will require heavy altering, it's advised to make your own abstract, again inheriting from as far down the chain as you can - mostly because that avoids duplicating and copy-pasting needless code. If you make an abstract, give it a unique name by using your mod name, initials, or whatever. It's pretty much guaranteed that some other modder will have "BaseMakeableModGun" as an abstract, and that'll cause you and your users headaches like no tomorrow.
 
+## Summary
+
+A Def can have both a `Name` attribute and a `defName.`
+
+The `defName` can be literally anything, and it just is a unique way to identify a specific `def`.  All non-abstract defs have a `<defName>NAME</defName>` tag.
+
+The `Name` is an attribute used specifically so XML can tag specific defs and refer to them later. It is declared inline with the def declaration, like `<ThingDef Name="NAMEOFTHING">`, rather than as a separate node. Not all Defs have to have a Name attribute, but the ones that do can be inherited by items that refer to them with a `ParentName` attribute.
+
 ## Closing thoughts, random stuff
 
 - DON'T FUCKING INCLUDE VANILLA BASE ABSTRACTS.
