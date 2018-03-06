@@ -16,8 +16,6 @@ If you're looking for a new C# project but don't know where to start, here are s
 | Enemies invulnerable to certain damage types/ e.g. melee only       | Harmony |
 | Boxing ring, as joy/melee training/relationship improvement | AI/Jobs |
 | Stop, Drop and Roll to self-extinguish | Harmony |
-| Talk to traders to dismiss them | Harmony Transpiler |
 | More inspirations. For animals, for enemies? | Basic C# |
 | Extortion by raiders - pay up or we raid | Basic C# |
-| Talk to pawns in mental breaks to snap them out of it | Basic C# |
 | A new butchering job that only selects corpses with less than 75 meat | Basic C# |
