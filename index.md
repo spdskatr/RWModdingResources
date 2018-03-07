@@ -23,7 +23,7 @@ Here are a list of tutorials and resources for RimWorld Modding.
 - [ZorbaTHut's intro to modding features](https://ludeon.com/forums/index.php?topic=32735.0)
 - [KeenKrozzy's Guide to using custom textures](https://www.youtube.com/watch?v=zqXbHso6TfU)
 - [GitHub repositories of modders](telephonebook)
-- [RimWorld font, courtesy of Marnador](RimWorldFont.ttf)
+- [RimWorld font, courtesy of Marnador](https://github.com/spdskatr/RWModdingResources/raw/master/RimWordFont.ttf)
 
 ## XML
 
