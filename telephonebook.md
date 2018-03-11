@@ -39,7 +39,8 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 
 ## M
 - [https://github.com/maarxx](https://github.com/maarxx) - maarxx
-- [https://github.com/Mehni](https://github.com/Mehni)- Mehni
+- [https://github.com/Mehni](https://github.com/Mehni) - Mehni
+- [https://github.com/merthsoft](https://github.com/merthsoft) - merthsoft
 
 ## N
 - [https://github.com/NoImageAvailable](https://github.com/NoImageAvailable) - NoImageAvailable
