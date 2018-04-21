@@ -17,7 +17,7 @@ The second parameter to most `Scribe` methods, often called `label`, is the save
 
 ## Saving Simple Values
 Most simple values are saved using Scribe_Values. This class allows you to save a variety of types including:
-- .NET Primitive Types (int, float, ushort, double, bool, char)
+- `int`, `float`, `bool`, `long`, `double`, `sbyte`
 - Enum Types (AltitudeLayer, BindingFlags, PawnHealthState)
 - Strings
 - System.Type
