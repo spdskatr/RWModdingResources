@@ -6,7 +6,6 @@ If you're looking for a new C# project but don't know where to start, here are s
 
 | Idea                                                                | Special skill |
 | ------------------------------------------------------------------- |--------------:|
-| Show couples on assigning beds                                      | Harmony + UI  |
 | Make animals assigned to miners/hunters haul fruits of their labour | AI |
 | A comp, with CompProperties. Weapons with custom effects?           | Basic C# |
 | Mental breaks                                                       | AI/Jobs |
@@ -16,8 +15,7 @@ If you're looking for a new C# project but don't know where to start, here are s
 | Boxing ring, as joy/melee training/relationship improvement | AI/Jobs |
 | Stop, Drop and Roll to self-extinguish | Harmony |
 | More inspirations. For animals, for enemies? | Basic C# |
-| Extortion by raiders - pay up or we raid | Basic C# |
 | A new butchering job that only selects corpses with less than 75 meat | Basic C# |
-| An adjustable limit on when a raid can retreat, going from the vanilla value to never | Harmony |
 | Proposal with roses/flowers for increased success chance | Jobs + Harmony |
 | Huskies are easier to train using beer | |
+| Comp that gives hediff upon equipping apparel/gun | Basic C# |
