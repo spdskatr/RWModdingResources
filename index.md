@@ -48,6 +48,7 @@
 
 - [Seraphile's Open source graphic resources & wiki](https://github.com/seraphile/rimshare/)
 - [Seraphile's guide to colouring images and masks](https://github.com/seraphile/rimshare/wiki/Colouring-in-Images)
+- [Chicken Plucker's guide to creating apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=1114369188) - Includes templates.
 - [CannibalRechter's CompFX for animated textures](https://ludeon.com/forums/index.php?topic=35895.0)
 - [Officially unofficial artstyle guide](artstyle)
 - Latest art assets can be found in #rimworld-art on the discord. Or ask.
