@@ -1,5 +1,5 @@
-## Updating to 1.0
-- [Tynan's forum post for 1.0](https://ludeon.com/forums/index.php?topic=41766.0)
+## Updating to 0.19
+- [Tynan's forum post for 0.19](https://ludeon.com/forums/index.php?topic=41766.0)
 - [Python script to convert graphic_multi texture files to the correct extension](https://gist.github.com/spdskatr/d0cb17db9dfe23f58d8bbbeda1795845) (from *_back to *_north, *_side to *_east, and *_front to *_south)
 
 ## Getting set up
