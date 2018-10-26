@@ -6,6 +6,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/pardeike](https://github.com/pardeike) - brrainz
 
 ## C
+- [https://github.com/alycecil](https://github.com/alycecil) - Cecil
 - [https://github.com/cucumpear](https://github.com/cucumpear) - cucumpear
 - [https://github.com/cuproPanda](https://github.com/cuproPanda) - cuproPanda
 
@@ -29,6 +30,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/HaploX1](https://github.com/HaploX1) - Haplo
 
 ## J
+- [https://github.com/Jaxe-Dev](https://github.com/Jaxe-Dev) - Jaxe
 - [https://github.com/jaxxa](https://github.com/jaxxa) - Jaxxa/ED
 - [https://github.com/jecrell](https://github.com/jecrell) - jecrell
 
@@ -36,6 +38,9 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/kaptain-kavern](https://github.com/kaptain-kavern) - KapTaiN KaVerN
 - [https://github.com/keenkrozzy](https://github.com/keenkrozzy) - KeenKrozzy
 - [https://github.com/KiameV](https://github.com/KiameV) - Kiame Vivacity
+
+## L
+- [https://github.com/rwpsychology](https://github.com/rwpsychology) - Linq
 
 ## M
 - [https://github.com/maarxx](https://github.com/maarxx) - maarxx
