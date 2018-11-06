@@ -1,6 +1,8 @@
-## Updating to 0.19
+# RimWorld Modding Resources
+
+## Updating to 0.19/1.0
 - [Tynan's forum post for 0.19](https://ludeon.com/forums/index.php?topic=41766.0)
-- [Python script to convert graphic_multi texture files to the correct extension](https://gist.github.com/spdskatr/d0cb17db9dfe23f58d8bbbeda1795845) (from *_back to *_north, *_side to *_east, and *_front to *_south)
+- [Python script to convert graphic_multi texture files to the correct extension](https://gist.github.com/spdskatr/d0cb17db9dfe23f58d8bbbeda1795845) (from \_back to \_north, \_side to \_east, and \_front to \_south)
 
 ## Getting set up
 
@@ -13,6 +15,12 @@
 - [Setting up a solution for RimWorld](http://rimworldwiki.com/wiki/Modding_Tutorials/Setting_up_a_solution) or [setting up Visual Studio](http://www.thewindowsclub.com/how-to-get-started-with-visual-studio). You'll need to be able to target the .NET 3.5 framework to mod RimWorld.
 - [fyarn's Rimworld Mod Development Cookiecutter](https://ludeon.com/forums/index.php?topic=39038): Set up a fully functional mod development environment in 30 seconds or less with a Visual Studio integration
 - [Things you might not know](nobodyreadsthereadme)
+
+### Getting set up: Tips for C&#35; on Linux
+
+For masochists like me who prefer to make mods on Linux, here are a few resources to hopefully make your life a bit easier. Or not.
+- [Rubenwardy's blog post from 2016 detailing a Debian setup of Mono and MonoDevelop](https://blog.rubenwardy.com/2016/07/20/rimworld-install-monodevelop-with-dot-net-3.5/)
+- [My MonoDevelop setup on Arch (and also how to run ILSpy on WINE)](mono-arch)
 
 ## General
 
