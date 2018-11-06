@@ -3,14 +3,14 @@ Everything in this setup WorksOnMyMachine™, so I can't guarantee if it works o
 
 This article is a work in progress, I've outlined the basic steps in the section below.
 ## TL;DR
-- Set up MonoDevelop
- - ~~Compile/Install Mono 3.12.1 to /opt/mono~~ (Not needed?)
- - Install MonoDevelop via Flatpak
- - ~~Configure MonoDevelop (Edit -> References... -> Projects -> .NET Runtimes)~~
-- Set up ILSpy
- - Download Zhentar's patch of ILSpy [here](https://github.com/Zhentar/ILSpy/releases)
- - Install WINE, Winetricks and `samba`
- - `winetricks dotnet40`
+- **Set up MonoDevelop**
+  - ~~Compile/Install Mono 3.12.1 to /opt/mono~~ (Not needed?)
+  - Install MonoDevelop via Flatpak
+  - ~~Configure MonoDevelop (Edit -> References... -> Projects -> .NET Runtimes)~~
+- **Set up ILSpy**
+  - Download Zhentar's patch of ILSpy [here](https://github.com/Zhentar/ILSpy/releases)
+  - Install WINE, Winetricks and `samba`
+  - `winetricks dotnet40`
 
 ## Set up MonoDevelop
 
