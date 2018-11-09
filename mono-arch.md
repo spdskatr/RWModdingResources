@@ -17,7 +17,7 @@ You can always get MonoDevelop via the [AUR](https://aur.archlinux.org/packages/
 
 I installed MonoDevelop via flatpak:
 ```bash
-# Omit --user to install system-wide, needs root privileges for obvious reasons
+# Omit --user to install system-wide, this way needs root privileges for obvious reasons
 $ flatpak install --user --from https://download.mono-project.com/repo/monodevelop.flatpakref
 ```
 
