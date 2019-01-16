@@ -17,5 +17,7 @@ If you're looking for a new C# project but don't know where to start, here are s
 | More inspirations. For animals, for enemies? | Basic C# |
 | A new butchering job that only selects corpses with less than 75 meat | Basic C# |
 | Proposal with roses/flowers for increased success chance | Jobs + Harmony |
-| Huskies are easier to train using beer | |
+| Huskies are easier to train using beer | Harmony |
 | Comp that gives hediff upon equipping apparel/gun | Basic C# |
+| Different traps. Refuelable, reusable, animal-lures, etc | Basic C# |
+| Prisoner gladiator arena | AI/Jobs |
