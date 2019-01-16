@@ -11,8 +11,10 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/cuproPanda](https://github.com/cuproPanda) - cuproPanda
 
 ## D
+- [https://github.com/dieworld](https://github.com/dieworld) - dieworld
 - [https://github.com/DingoDjango](https://github.com/DingoDjango) - Dingo
 - [https://github.com/DoctorVanGogh](https://github.com/DoctorVanGogh) - DoctorVanGogh
+- [https://github.com/DrZhivago1](https://github.com/DrZhivago1) - Dr Zhivago
 
 ## E
 - [https://github.com/erdelf](https://github.com/erdelf) - erdelf
@@ -40,6 +42,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/KiameV](https://github.com/KiameV) - Kiame Vivacity
 
 ## L
+- [https://github.com/Lanilor](https://github.com/Lanilor) - Lanilor
 - [https://github.com/rwpsychology](https://github.com/rwpsychology) - Linq
 
 ## M
@@ -50,6 +53,10 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 ## N
 - [https://github.com/NoImageAvailable](https://github.com/NoImageAvailable) - NoImageAvailable
 - [https://github.com/notfood](https://github.com/notfood) - notfood
+- [https://github.com/jhjjgu0115](https://github.com/jhjjgu0115) - Nukafrog
+
+## O
+- [https://github.com/OrionFive](https://github.com/OrionFive) - Orion
 
 ## Q
 - [https://github.com/quicksilverfox](https://github.com/quicksilverfox/) - quicksilverfox
@@ -80,5 +87,6 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/xeonovadan](https://github.com/xeonovadan) - XeoNovaDan
 
 ## Z
+- [https://github.com/Zetrith/](https://github.com/Zetrith/) - Zetrith
 - [https://github.com/Zhentar](https://github.com/Zhentar) - Zhentar
 - [https://github.com/ZorbaTHut](https://github.com/ZorbaTHut) - ZorbaTHut
