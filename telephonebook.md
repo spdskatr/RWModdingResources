@@ -21,7 +21,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 
 ## F
 - [https://github.com/Falconne](https://github.com/Falconne) - falconne
-- [https://github.com/FluffierThanThou](https://github.com/FluffierThanThou) - Fluffy
+- [https://github.com/fluffy-mods](https://github.com/fluffy-mods) - Fluffy
 - [https://github.com/Fuglypump](https://github.com/Fuglypump) - Fuglypump
 - [https://github.com/n-fisher](https://github.com/n-fisher) - fyarn
 
