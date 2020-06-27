@@ -14,6 +14,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/dieworld](https://github.com/dieworld) - dieworld
 - [https://github.com/DingoDjango](https://github.com/DingoDjango) - Dingo
 - [https://github.com/DoctorVanGogh](https://github.com/DoctorVanGogh) - DoctorVanGogh
+- [https://github.com/dninemfive](https://github.com/dninemfive) - dninemfive
 - [https://github.com/DrZhivago1](https://github.com/DrZhivago1) - Dr Zhivago
 
 ## E
@@ -26,6 +27,7 @@ A collection of RimWorld modders GitHub repositories. For inspiration, or checki
 - [https://github.com/n-fisher](https://github.com/n-fisher) - fyarn
 
 ## G
+- [https://github.com/theguruofreason](https://github.com/theguruofreason) - Gasch
 - [https://github.com/goudaQuiche](https://github.com/goudaQuiche)  - gouda quiche
 
 ## H
