@@ -51,6 +51,7 @@ For masochists like me who prefer to make mods on Linux, here are a few resource
 - [Why_is_that's guide to Mod Settings](https://github.com/AaronCRobinson/SettingsHelper/wiki)
 - [Mehni's top to bottom breakdown of the Job system](https://github.com/Mehni/ExampleJob/wiki)
 - [Guide to saving stuff using ExposeData](saving-guide)
+- [Attaching a debugger](https://fluffy-mods.github.io//2020/08/13/debugging-rimworld/)
 - [Ideas for a first project](starterprojects)
 
 ## Graphics
